@@ -52,3 +52,7 @@
     /* Support for IE. */
     font-feature-settings: 'liga';
 }
+
+.sdw-inset {
+    box-shadow: inset 0 0 0 2000px rgba(7, 7, 29, 0.589) !important;
+}
